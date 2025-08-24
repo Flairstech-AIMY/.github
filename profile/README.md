@@ -4,17 +4,6 @@
 
 Our vision is to simplify lives using technology. AIMY is a series of AI agents and tools that power our managed services, boosting outcomes and streamlining internal operations to maximize productivity.
 
-> *“We invested in AI to make us even more productive and efficient, and we see tangible benefits today.”*  
-> – Rami Fahim, Chief Executive Officer
-
-**Key Achievements**  
-- ~100% boost in customer satisfaction  
-- 98% knowledge retrieval accuracy  
-- 80% reduction in data entry efforts  
-- 3x more contact quality audits  
-
----
-
 ## Main Projects
 
 Explore the main modules of AIMY through our GitHub repositories:
